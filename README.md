@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-- João 
+- João Pedro Mazzante Alvarez / RA: 10723837
 - Renan Van Blommenstein Rodrigues / RA: 10735008
 - Vinicius Bisordi Acauã / RA: 10739883
 
