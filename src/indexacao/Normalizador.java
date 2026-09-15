@@ -2,7 +2,7 @@
 
 package indexacao;
 
-import java.text.Normalizer
+import java.text.Normalizer;
 
 public class Normalizador {
     public static String normalizar(String palavra) {
