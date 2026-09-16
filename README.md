@@ -9,25 +9,25 @@
 ## Divisão
 
 ### João - Indexação
-- [ ] Leitura dos arquivos 
-- [ ] Normalização 
-- [ ] Construção do índice 
+- [x] Leitura dos arquivos 
+- [x] Normalização 
+- [x] Construção do índice 
 
 ### Vinícius - Árvore Ternária 
-- [ ] Classe No
-- [ ] Inserção 
-- [ ] Busca
-- [ ] Associação de arquivos 
+- [x] Classe No
+- [x] Inserção 
+- [x] Busca
+- [x] Associação de arquivos 
 
 ### Renan - Consultas 
-- [ ] Operador E 
-- [ ] Operador OU 
-- [ ] Operador NAO
-- [ ] Precedencia 
-- [ ] Interface
+- [x] Operador E 
+- [x] Operador OU 
+- [x] Operador NAO
+- [x] Precedencia 
+- [x] Interface
 
 ## Integração 
-- [ ] Integrar indexação + árvore 
-- [ ] Integrar árvore + consultas
-- [ ] Testes finais 
-- [ ] Relatório
+- [x] Integrar indexação + árvore 
+- [x] Integrar árvore + consultas
+- [x] Testes finais 
+- [x] Relatório
